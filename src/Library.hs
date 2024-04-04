@@ -18,7 +18,7 @@ cantidadEmpleadosPorSucursal nombreEmpresa --Guardas
     | esCapicua nombreEmpresa && nombreEsPar nombreEmpresa = letrasIntermedias nombreEmpresa * 2
     | otherwise = 0
 
---Tarea: Implementar funciones, y la condicion que falta (divisible por 3 o por 7)
+--Tarea: Implementar funciones, y la condicion que falta (esMultiploDe)
 
 
 
